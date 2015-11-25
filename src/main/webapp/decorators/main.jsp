@@ -10,13 +10,13 @@
     
     	<div>
 	    	<ul>
-				<li><a href="/smarttag-showcase/request/toList.action">list table with static filter</a></li>
-			 	<li><a href="/smarttag-showcase/request/toItemList.action">list table with dynamic filter</a></li>
+				<li><a href="/smarttag-web/request/toList.action">list table with static filter</a></li>
+			 	<li><a href="/smarttag-web/request/toItemList.action">list table with dynamic filter</a></li>
 			 	
-			 	<li><a href="/smarttag-showcase/request/toMultiList.action">Multi table list</a></li>
-			 	<li><a href="/smarttag-showcase/dynamic/toList.action?type=0">dynamic list table</a></li>
+			 	<li><a href="/smarttag-web/request/toMultiList.action">Multi table list</a></li>
+			 	<li><a href="/smarttag-web/dynamic/toList.action?type=0">dynamic list table</a></li>
 			 	
-			 	<li><a href="/smarttag-showcase/components/toSelectComponent.action">Editable drop down list</a></li>
+			 	<li><a href="/smarttag-web/components/toSelectComponent.action">Editable drop down list</a></li>
 			</ul>
 		</div>
 	
