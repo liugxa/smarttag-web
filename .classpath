@@ -9,11 +9,22 @@
   <classpathentry kind="var" path="M2_REPO/javax/servlet/jsp-api/2.0/jsp-api-2.0.jar"/>
   <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
   <classpathentry kind="var" path="M2_REPO/com/platform/gui/framework/smart/smarttag-struts2/1.1-SNAPSHOT/smarttag-struts2-1.1-SNAPSHOT.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/platform/gui/framework/smart/smarttag-jar/1.1-SNAPSHOT/smarttag-jar-1.1-SNAPSHOT.jar"/>
+  <classpathentry kind="var" path="M2_REPO/ecs/ecs/1.4.2/ecs-1.4.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/net/sf/json-lib/json-lib/2.2.3/json-lib-2.2.3-jdk15.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-collections/commons-collections/3.2/commons-collections-3.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-lang/commons-lang/2.4/commons-lang-2.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/net/sf/ezmorph/ezmorph/1.0.6/ezmorph-1.0.6.jar"/>
+  <classpathentry kind="var" path="M2_REPO/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/log4j/log4j/1.2.9/log4j-1.2.9.jar"/>
+  <classpathentry kind="var" path="M2_REPO/freemarker/freemarker/2.3.8/freemarker-2.3.8.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/htmlparser/htmlparser/1.6/htmlparser-1.6.jar"/>
   <classpathentry kind="var" path="M2_REPO/org/apache/struts/struts2-core/2.0.9/struts2-core-2.0.9.jar"/>
   <classpathentry kind="var" path="M2_REPO/com/opensymphony/xwork/2.0.4/xwork-2.0.4.jar"/>
-  <classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.jar"/>
   <classpathentry kind="var" path="M2_REPO/opensymphony/ognl/2.6.11/ognl-2.6.11.jar"/>
-  <classpathentry kind="var" path="M2_REPO/freemarker/freemarker/2.3.8/freemarker-2.3.8.jar"/>
   <classpathentry kind="var" path="M2_REPO/org/apache/struts/struts2-sitemesh-plugin/2.0.9/struts2-sitemesh-plugin-2.0.9.jar"/>
   <classpathentry kind="var" path="M2_REPO/opensymphony/sitemesh/2.2.1/sitemesh-2.2.1.jar"/>
   <classpathentry kind="var" path="M2_REPO/org/apache/struts/struts2-spring-plugin/2.0.9/struts2-spring-plugin-2.0.9.jar"/>

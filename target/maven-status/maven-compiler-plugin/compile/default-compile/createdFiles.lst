@@ -1,0 +1,17 @@
+com\platform\gui\demo\request\model\Request.class
+com\platform\gui\demo\request\action\RequestItemAction.class
+com\platform\gui\demo\request\model\NameURLColumnDecorate.class
+com\platform\gui\demo\dynamic\action\MockDataRecordList.class
+com\platform\gui\demo\dynamic\util\DataTableUtils.class
+com\platform\gui\demo\request\model\RequestDataItem.class
+com\platform\gui\demo\request\model\MemoryColumnDecorate.class
+com\platform\gui\demo\dynamic\action\MockTableGridAction.class
+com\platform\gui\demo\request\action\RequestAction.class
+com\platform\gui\demo\request\action\RequestMultiListAction.class
+com\platform\gui\demo\components\model\Option.class
+com\platform\gui\demo\components\action\SmartComponentAction.class
+com\platform\gui\demo\request\service\MockRequestService.class
+com\platform\gui\demo\request\model\RequestItemDecorate.class
+com\platform\gui\demo\dynamic\action\MockDataColumn.class
+com\platform\gui\demo\request\model\RequestDataRecordList.class
+com\platform\gui\demo\request\model\RequestStatusItemDecorate.class
